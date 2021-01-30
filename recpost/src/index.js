@@ -10,4 +10,4 @@ async function screenshot(url){
     await browser.close();
 }
 
-screenshot("https://google.com/")
+screenshot("https://flash-quiz-next.davidlpc1.vercel.app/")
